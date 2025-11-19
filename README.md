@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2022-06/camtasia.png" width="440" alt="Camtasia Logo"/>
   <br/><br/>
-  <a href="https://app-get-osx.github.io/.github/camtasiamac">
+  <a href="https://instal-apps-osx.github.io/.github/camtasiamac">
     <img src="https://img.shields.io/badge/Get%20Camtasia%20for%20macOS-34A853?style=for-the-badge&logo=apple"/>
   </a>
 </div>
